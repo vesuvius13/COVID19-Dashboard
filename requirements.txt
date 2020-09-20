@@ -1,0 +1,8 @@
+﻿plotly
+seaborn
+folium
+beautifulsoup4
+requests
+numpy
+pandas
+appmode
