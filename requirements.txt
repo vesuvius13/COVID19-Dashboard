@@ -5,4 +5,7 @@ beautifulsoup4
 requests
 numpy
 pandas
+voila
 appmode
+jupyter nbextension     enable --py --sys-prefix appmode
+jupyter serverextension enable --py --sys-prefix appmode
